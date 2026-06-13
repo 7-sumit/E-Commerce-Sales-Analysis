@@ -74,7 +74,7 @@ applicable)
 1. Worked on sales data from Olist, one of Brazil's leading e-commerce platforms, to develop an end-to-end analytics solution.
 2. Built a Python-based ETL pipeline using Pandas for data extraction, cleaning, transformation, and preparation of raw datasets.
 3. Performed extensive data cleansing and preprocessing to improve data quality, consistency, and reporting accuracy.
-4. Integrated the transformed data into Power BI for visualization and business intelligence reporting.
+4. Loaded the transformed data into Power BI using Python Data Cleaning Script.
 5. Designed and implemented an optimized data model in Power BI by establishing relationships between multiple datasets.
 6. Conducted exploratory data analysis to identify sales trends, customer behavior patterns, product performance, and regional insights.
 7. Developed interactive and dynamic Power BI dashboards for sales analysis, enabling stakeholders to monitor key business metrics.
